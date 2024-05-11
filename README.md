@@ -6,6 +6,10 @@
 
 ## LINK: https://jwtforthewin.vercel.app/
 
+## Manera de presentar el token
+
+![Manera de poner el token](./components/maneradepresentartoken.png)
+
 ## Seguridad de Endpoints en Backend
 
 ### Objetivo
